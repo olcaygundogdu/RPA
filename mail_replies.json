@@ -1,0 +1,40 @@
+[
+  {
+    "title":  "siparis onayi",
+    "body": "Merhaba, Siparişinizin bize ulaştığını ve işleme alındığını teyit etmek için size bu e-postayı gönderiyorum. Siparişinizin hazırlanması ve kargoya verilmesi için elimizden gelen en kısa sürede çalışacağız. Siparişinizin takibi ile ilgili bilgiyi içeren bir e-posta daha göndereceğiz. Eğer siparişinizde herhangi bir sorun olursa lütfen bizimle iletişime geçmekten çekinmeyin. Herhangi bir yardıma ihtiyacınız olduğunda, müşteri hizmetlerimiz sizin için hazır olacak. Siparişiniz için bizi tercih ettiğiniz için teşekkür ederiz! Saygılarımla."
+  },
+  {
+    "title": "siparis iptali",
+    "body": "Merhaba, Sipariş iptal talebinizi aldık. Üzgünüz ki, siparişinizin iptal edilmesi gerekiyor. Siparişinizin numarası [Sipariş Numarası] olarak kaydedilmiştir. Siparişinizin içeriği şöyledir: [Sipariş Detayları] Siparişinizi iptal etmek istemenize üzüldük. Mümkün olan en kısa sürede, siparişiniz için ödemiş olduğunuz tutar iade edilecektir. İade süreci hakkında ayrıntılı bilgi almak için müşteri hizmetlerimizle iletişime geçebilirsiniz. Herhangi bir sorunuz varsa, lütfen bizimle iletişime geçmekten çekinmeyin. Size yardımcı olmak için her zaman buradayız. İlginiz ve anlayışınız için teşekkür ederiz. Saygılarımla."
+  },
+  {
+    "title": "kargo bilgileri",
+    "body": "Merhaba, Siparişinizin kargoya verildiğini bildirmek için size bu e-postayı gönderiyorum. Sipariş numaranız [Sipariş Numarası] olarak kaydedilmiştir. Siparişinizin içeriği şöyledir: [Sipariş Detayları]. Siparişinizin takibini yapmak için size kargo takip numarasını gönderiyoruz. Kargo takip numaranız: [Kargo Takip Numarası] Kargonuzun teslimatı tahmini [Teslimat Tarihi] tarihinde gerçekleşecek. Bu tarihte evde olamayacağınızı düşünüyorsanız, kargo firması size ulaşarak teslimatı yeniden planlamak için yardımcı olacaktır. Eğer herhangi bir sorunla karşılaşırsanız lütfen bize ulaşmaktan çekinmeyin. Size yardımcı olmak için buradayız. Siparişiniz için tekrar teşekkür ederiz ve iyi günler dileriz. Saygılarımla."
+  },
+  {
+    "title": "iade islemleri",
+    "body": "Merhaba, İade talebinizi aldığımızı ve işleme alındığını teyit etmek için size bu e-postayı gönderiyorum. Sipariş numaranız [Sipariş Numarası] olarak kaydedilmiştir. İade etmek istediğiniz ürünün detayları şöyledir: [İade Ürün Detayları]. İade işleminin tamamlanması için bize ürününüzü iade etmeniz gerekiyor. Lütfen ürünü aşağıdaki adrese geri gönderin: [Şirket İsmi ve Adresi]. Ürünü bize geri gönderdiğinizde, iade işleminin tamamlanması için ürününüzün durumunu kontrol edeceğiz. Ürününüzün durumu iade koşullarına uygun olduğunda, ödemeniz mümkün olan en kısa sürede iade edilecektir. İade işlemi hakkında ayrıntılı bilgi almak için müşteri hizmetlerimizle iletişime geçebilirsiniz. Size yardımcı olmak için buradayız. İlginiz ve anlayışınız için teşekkür ederiz. Saygılarımla."
+  },
+  {
+    "title": "indirim ve kampanya",
+    "body": "Merhaba, Sana harika haberlerimiz var! Şu anda şirketimizde yeni indirimler ve kampanyalar başladı. İndirimlerimizden faydalanmak için hemen sitemizi ziyaret edip, alışverişe başlayabilirsiniz. Bu fırsatı kaçırmayın ve hemen alışverişe başlayın! İndirimlerimiz sınırlı sayıdadır, bu yüzden acele edin. Herhangi bir sorunuz varsa veya yardıma ihtiyacınız varsa, müşteri hizmetlerimiz her zaman size yardımcı olmaktan mutluluk duyacaktır. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla."
+  },
+  {
+    "title": "yeni urun",
+    "body": "Merhaba, Sana harika haberlerimiz var! Şirketimiz yeni ürünler stokta ve şimdi satışta! Yeni ürünlerimizi keşfetmek için hemen alışverişe başlayabilirsiniz. Bu ürünlerimiz sınırlı sayıdadır, bu yüzden acele edin ve alışverişinizi tamamlayın! Herhangi bir sorunuz varsa veya yardıma ihtiyacınız varsa, müşteri hizmetlerimiz her zaman size yardımcı olmaktan mutluluk duyacaktır. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla."
+  },
+  {
+    "title": "sikayet",
+    "body": "Merhaba, Siz değerli müşterilerimizin geri bildirimleri ve şikayetleri bizim için çok önemlidir. Bizimle paylaşacağınız her türlü fikir veya öneri, işimizi daha iyi hale getirmemize yardımcı olacaktır. Eğer bir şikayetiniz veya geri bildiriminiz varsa, lütfen bizimle iletişime geçin. Müşteri hizmetlerimiz size yardımcı olmaktan mutluluk duyacaktır ve sizinle birlikte çözüm bulmaya çalışacaktır. Bizimle iletişime geçmek için belirteceğimiz seçenekleri kullanabilirsiniz. Müşteri hizmetlerimize telefonla veya e-posta yoluyla ulaşın Web sitemizdeki iletişim formunu kullanın Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla."
+  },
+  {
+    "title": "hesap bilgileri",
+    "body": "Merhaba, Abonelik ve hesap bilgileriniz bizim için önemlidir. Bu nedenle, size hatırlatmak istiyoruz ki, abonelik ve hesap bilgilerinizde herhangi bir değişiklik olduğunda bize bildirmeniz gerekmektedir. Ayrıca, hesap bilgilerinizi ve aboneliklerinizi düzenli olarak kontrol etmenizi öneririz. Bu sayede, hesap bilgilerinizin güncel olduğundan ve aboneliklerinizin düzgün bir şekilde yönetildiğinden emin olabilirsiniz. Abonelikleriniz veya hesap bilgilerinizle ilgili herhangi bir sorunuz veya yardıma ihtiyacınız varsa, müşteri hizmetlerimiz her zaman size yardımcı olmaktan mutluluk duyacaktır. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla."
+  },
+  {
+    "title": "odeme onayi",
+    "body": "Merhaba, Siparişiniz için yaptığınız ödeme başarıyla işlenmiştir. Ödeme onayınızı aldığımız için teşekkür ederiz. Fatura bilgileriniz, siparişinizin sayfasında gösterilmektedir. Eğer fatura bilgilerinizde bir hata veya değişiklik varsa, lütfen bizimle iletişime geçin. Müşteri hizmetlerimiz size yardımcı olmaktan mutluluk duyacaktır. Siparişinizin takibini yapmak için, sipariş sayfanızı kontrol edebilirsiniz. Ayrıca, siparişinizin kargo durumunu takip etmek için kargo takip numarasını kullanabilirsiniz. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla."
+  }
+  ]
+
+

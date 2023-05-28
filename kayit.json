@@ -1,0 +1,82 @@
+[
+    {
+        "Mail": "Mail İçeriği",
+        "Subject": "Mail Konusu",
+        "Customer": "Müşteri E-Postası",
+        "Send": "Mesaj İçeriği",
+        "Mail Date": "Mail Tarihi",
+        "Send Date": "Gönderim Tarihi"
+    },
+    {
+        "Mail": "Siparişimde bir hata yaptım ve iptal etmek istiyorum. Lütfen siparişi iptal\r\nedin ve ödememi iade edin. Teşekkür ederim.\r\n",
+        "Subject": "=?UTF-8?B?U2lwYXJpxZ8gxLBwdGFsaQ==?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Sipariş iptal talebinizi aldık. Üzgünüz ki, siparişinizin iptal edilmesi gerekiyor. Siparişinizin numarası [Sipariş Numarası] olarak kaydedilmiştir. Siparişinizin içeriği şöyledir: [Sipariş Detayları] Siparişinizi iptal etmek istemenize üzüldük. Mümkün olan en kısa sürede, siparişiniz için ödemiş olduğunuz tutar iade edilecektir. İade süreci hakkında ayrıntılı bilgi almak için müşteri hizmetlerimizle iletişime geçebilirsiniz. Herhangi bir sorunuz varsa, lütfen bizimle iletişime geçmekten çekinmeyin. Size yardımcı olmak için her zaman buradayız. İlginiz ve anlayışınız için teşekkür ederiz. Saygılarımla.",
+        "Mail Date": "Sun, 28 May 2023 01:36:49 +0300",
+        "Send Date": "2023-05-28 01:41:43.462016"
+    },
+    {
+        "Mail": "Selam, son siparişim için ödeme yapmama rağmen ödeme onayı almadım. Ödeme\r\nişlemi başarılı mı gerçekleşti? Teşekkür ederim.\r\n",
+        "Subject": "=?UTF-8?B?w5ZkZW1lIE9uYXnEsQ==?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Siparişiniz için yaptığınız ödeme başarıyla işlenmiştir. Ödeme onayınızı aldığımız için teşekkür ederiz. Fatura bilgileriniz, siparişinizin sayfasında gösterilmektedir. Eğer fatura bilgilerinizde bir hata veya değişiklik varsa, lütfen bizimle iletişime geçin. Müşteri hizmetlerimiz size yardımcı olmaktan mutluluk duyacaktır. Siparişinizin takibini yapmak için, sipariş sayfanızı kontrol edebilirsiniz. Ayrıca, siparişinizin kargo durumunu takip etmek için kargo takip numarasını kullanabilirsiniz. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla.",
+        "Mail Date": "Sun, 28 May 2023 01:37:09 +0300",
+        "Send Date": "2023-05-28 01:41:51.770567"
+    },
+    {
+        "Mail": "Merhaba, hesabımdaki e-posta adresimi güncellemek istiyorum. Yeni e-posta\r\nadresimi nasıl kaydedebilirim?\r\n",
+        "Subject": "=?UTF-8?Q?Hesap_Bilgileri_Hakk=C4=B1nda?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Abonelik ve hesap bilgileriniz bizim için önemlidir. Bu nedenle, size hatırlatmak istiyoruz ki, abonelik ve hesap bilgilerinizde herhangi bir değişiklik olduğunda bize bildirmeniz gerekmektedir. Ayrıca, hesap bilgilerinizi ve aboneliklerinizi düzenli olarak kontrol etmenizi öneririz. Bu sayede, hesap bilgilerinizin güncel olduğundan ve aboneliklerinizin düzgün bir şekilde yönetildiğinden emin olabilirsiniz. Abonelikleriniz veya hesap bilgilerinizle ilgili herhangi bir sorunuz veya yardıma ihtiyacınız varsa, müşteri hizmetlerimiz her zaman size yardımcı olmaktan mutluluk duyacaktır. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla.",
+        "Mail Date": "Sun, 28 May 2023 01:37:34 +0300",
+        "Send Date": "2023-05-28 01:41:53.897716"
+    },
+    {
+        "Mail": "Selam son siparişimle ilgili bir şikayette bulunmak istiyorum. Ürünün\r\nkalitesi beklentilerimi karşılamadı.\r\n",
+        "Subject": "=?UTF-8?B?xZ5pa2F5ZXQgSGFra8SxbmRh?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Siz değerli müşterilerimizin geri bildirimleri ve şikayetleri bizim için çok önemlidir. Bizimle paylaşacağınız her türlü fikir veya öneri, işimizi daha iyi hale getirmemize yardımcı olacaktır. Eğer bir şikayetiniz veya geri bildiriminiz varsa, lütfen bizimle iletişime geçin. Müşteri hizmetlerimiz size yardımcı olmaktan mutluluk duyacaktır ve sizinle birlikte çözüm bulmaya çalışacaktır. Bizimle iletişime geçmek için belirteceğimiz seçenekleri kullanabilirsiniz. Müşteri hizmetlerimize telefonla veya e-posta yoluyla ulaşın Web sitemizdeki iletişim formunu kullanın Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla.",
+        "Mail Date": "Sun, 28 May 2023 01:37:53 +0300",
+        "Send Date": "2023-05-28 01:41:55.987717"
+    },
+    {
+        "Mail": "Merhaba, yeni ürünlerinizi gördüm ve çok beğendim. Acaba indirime girecek\r\nmi?\r\n",
+        "Subject": "=?UTF-8?B?WWVuaSDDnHLDvG5sZXI=?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Sana harika haberlerimiz var! Şirketimiz yeni ürünler stokta ve şimdi satışta! Yeni ürünlerimizi keşfetmek için hemen alışverişe başlayabilirsiniz. Bu ürünlerimiz sınırlı sayıdadır, bu yüzden acele edin ve alışverişinizi tamamlayın! Herhangi bir sorunuz varsa veya yardıma ihtiyacınız varsa, müşteri hizmetlerimiz her zaman size yardımcı olmaktan mutluluk duyacaktır. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla.",
+        "Mail Date": "Sun, 28 May 2023 01:38:11 +0300",
+        "Send Date": "2023-05-28 01:41:58.070787"
+    },
+    {
+        "Mail": "Mevcut indirim ve kampanyalar hakkında bilgi alabilir miyim? Teşekkür\r\nederim.\r\n",
+        "Subject": "=?UTF-8?Q?=C4=B0ndirim_ve_Kampanyalar?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Sana harika haberlerimiz var! Şu anda şirketimizde yeni indirimler ve kampanyalar başladı. İndirimlerimizden faydalanmak için hemen sitemizi ziyaret edip, alışverişe başlayabilirsiniz. Bu fırsatı kaçırmayın ve hemen alışverişe başlayın! İndirimlerimiz sınırlı sayıdadır, bu yüzden acele edin. Herhangi bir sorunuz varsa veya yardıma ihtiyacınız varsa, müşteri hizmetlerimiz her zaman size yardımcı olmaktan mutluluk duyacaktır. Siz değerli müşterilerimize destekleriniz için teşekkür ederiz. Saygılarımızla.",
+        "Mail Date": "Sun, 28 May 2023 01:38:30 +0300",
+        "Send Date": "2023-05-28 01:42:00.173095"
+    },
+    {
+        "Mail": "Sipariş ettiğim ürünü iade etmek istiyorum. Detaylı bilgi alabilir miyim?\r\n",
+        "Subject": "=?UTF-8?B?xLBhZGUgxLDFn2xlbWxlcmk=?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, İade talebinizi aldığımızı ve işleme alındığını teyit etmek için size bu e-postayı gönderiyorum. Sipariş numaranız [Sipariş Numarası] olarak kaydedilmiştir. İade etmek istediğiniz ürünün detayları şöyledir: [İade Ürün Detayları]. İade işleminin tamamlanması için bize ürününüzü iade etmeniz gerekiyor. Lütfen ürünü aşağıdaki adrese geri gönderin: [Şirket İsmi ve Adresi]. Ürünü bize geri gönderdiğinizde, iade işleminin tamamlanması için ürününüzün durumunu kontrol edeceğiz. Ürününüzün durumu iade koşullarına uygun olduğunda, ödemeniz mümkün olan en kısa sürede iade edilecektir. İade işlemi hakkında ayrıntılı bilgi almak için müşteri hizmetlerimizle iletişime geçebilirsiniz. Size yardımcı olmak için buradayız. İlginiz ve anlayışınız için teşekkür ederiz. Saygılarımla.",
+        "Mail Date": "Sun, 28 May 2023 01:38:48 +0300",
+        "Send Date": "2023-05-28 01:42:02.207248"
+    },
+    {
+        "Mail": "Siparişimle ilgili olarak kargo takip numarası hakkında bir bilgi alabilir\r\nmiyim?\r\n",
+        "Subject": "=?UTF-8?Q?Kargo_Bilgilerim_Hakk=C4=B1nda?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Siparişinizin kargoya verildiğini bildirmek için size bu e-postayı gönderiyorum. Sipariş numaranız [Sipariş Numarası] olarak kaydedilmiştir. Siparişinizin içeriği şöyledir: [Sipariş Detayları]. Siparişinizin takibini yapmak için size kargo takip numarasını gönderiyoruz. Kargo takip numaranız: [Kargo Takip Numarası] Kargonuzun teslimatı tahmini [Teslimat Tarihi] tarihinde gerçekleşecek. Bu tarihte evde olamayacağınızı düşünüyorsanız, kargo firması size ulaşarak teslimatı yeniden planlamak için yardımcı olacaktır. Eğer herhangi bir sorunla karşılaşırsanız lütfen bize ulaşmaktan çekinmeyin. Size yardımcı olmak için buradayız. Siparişiniz için tekrar teşekkür ederiz ve iyi günler dileriz. Saygılarımla.",
+        "Mail Date": "Sun, 28 May 2023 01:39:13 +0300",
+        "Send Date": "2023-05-28 01:42:04.765463"
+    },
+    {
+        "Mail": "Siparişimi tamamladım ancak bir güncelleme almadım. Lütfen siparişimi\r\nonaylayın.\r\n",
+        "Subject": "=?UTF-8?B?U2lwYXJpxZ8gT25hecSx?=",
+        "Customer": "olcaygndgd1@gmail.com",
+        "Send": "Merhaba, Siparişinizin bize ulaştığını ve işleme alındığını teyit etmek için size bu e-postayı gönderiyorum. Siparişinizin hazırlanması ve kargoya verilmesi için elimizden gelen en kısa sürede çalışacağız. Siparişinizin takibi ile ilgili bilgiyi içeren bir e-posta daha göndereceğiz. Eğer siparişinizde herhangi bir sorun olursa lütfen bizimle iletişime geçmekten çekinmeyin. Herhangi bir yardıma ihtiyacınız olduğunda, müşteri hizmetlerimiz sizin için hazır olacak. Siparişiniz için bizi tercih ettiğiniz için teşekkür ederiz! Saygılarımla.",
+        "Mail Date": "Sun, 28 May 2023 01:39:28 +0300",
+        "Send Date": "2023-05-28 01:42:06.709887"
+    }
+]
